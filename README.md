@@ -529,4 +529,4 @@ For issues, questions, or suggestions, please:
    - ECR_REPO
    - PINECONE_API_KEY
    - OPENAI_API_KEY
-   test
+   test_file
